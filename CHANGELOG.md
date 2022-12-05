@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.12.0 (5th December 2022)
+- Removed unnecessary IconTemplates from iosIcons 
+
 ## 0.11.0 (27th September 2022)
 
 - Support for Macos Icons [#407](https://github.com/fluttercommunity/flutter_launcher_icons/pull/407)
