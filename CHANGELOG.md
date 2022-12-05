@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.11.0 (5th December 2022)
+## 0.12.0 (5th December 2022)
 - Removed unnecessary IconTemplates from iosIcons 
 
 ## 0.11.0 (27th September 2022)
